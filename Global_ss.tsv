@@ -1,4 +1,4 @@
-name	id	Code	Suicides No
+name	id	Code	Suicides_No
 Albania	8	ALB	1970
 Antigua and Barbuda	28	ATG	11
 Azerbaijan	31	AZE	1656
@@ -108,7 +108,7 @@ Christmas Island	162
 Togo	768		
 "Saint Helena, Ascension and Tristan da Cunha"	654		
 "Iran, Islamic Republic of"	364		
-Côte d'Ivoire	384		
+CÃ´te d'Ivoire	384		
 Vanuatu	548		
 Nigeria	566		
 South Georgia and the South Sandwich Islands	239		
@@ -125,7 +125,7 @@ Western Sahara	732
 Djibouti	262		
 Sierra Leone	694		
 Gabon	266		
-Saint Barthélemy	652		
+Saint BarthÃ©lemy	652		
 Monaco	492		
 Cocos (Keeling) Islands	166		
 Bhutan	64		
@@ -197,7 +197,7 @@ Senegal	686
 Chad	148		
 Afghanistan	4		
 Egypt	818		
-Réunion	638		
+RÃ©union	638		
 Mali	466		
 "Palestinian Territory, Occupied"	275		
 French Guiana	254		
@@ -215,8 +215,8 @@ Saint Vincent and the Grenadines	670
 Rwanda	646		
 Bouvet Island	74		
 Isle of Man	833		
-Curaçao	531		
-Åland Islands	248		
+CuraÃ§ao	531		
+Ã…land Islands	248		
 Brunei Darussalam	96		
 "Macedonia, the former Yugoslav Republic of"	807		
 "Virgin Islands, British"	92		
